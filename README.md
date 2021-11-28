@@ -11,3 +11,14 @@ Link to example code</a></br>
 Link to example UML</a></br>
 </details>
 
+<details><summary> Factory </summary>
+The factory pattern uses factory methods to deal with the problem of creating objects without having to specify the exact class of the object that will be created.</br>
+<h4> Factory - Delivery Service example </h4>
+The delivery service needs to choose a deleviry vehicle and schedule it based on the distance from the client.
+If the distance is less than 3.5 k"m it will use bicycle, between 3.5 k"m and 25 k"m it will use car and wont deliver to distance more than 25 k"m.
+</br></br>
+<a href="https://github.com/SofiaVit/GoDesignPatterns/tree/master/factory">
+Link to example code</a></br>
+<a href="">
+Link to example UML</a></br>
+</details>
